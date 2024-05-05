@@ -3,8 +3,6 @@
 API Gateway Project
 This project is an API Gateway application developed with Node.js. API Gateway acts as a bridge between different services in microservice architectures, allowing requests to be managed and communication between services to be organized. This project offers various solutions on issues such as scalability, security and service management.
 
-The goal of the project
-API Gateway helps orchestrate cross-service requests in large and complex systems. Thanks to this application, all API requests can be controlled from a single point, thus centralizing security, monitoring and management processes.
 
 Features
 API Routing
