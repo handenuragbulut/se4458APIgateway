@@ -1,6 +1,7 @@
 # se4458APIgateway
 
-API Gateway Project
+API Gateway Project:
+
 This project is an API Gateway application developed with Node.js. API Gateway acts as a bridge between different services in microservice architectures, allowing requests to be managed and communication between services to be organized. This project offers various solutions on issues such as scalability, security and service management.
 
 
